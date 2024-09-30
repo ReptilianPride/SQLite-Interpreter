@@ -1,4 +1,4 @@
-# An SQLite Interpretter
+# An SQLite Interpreter
 
 ## Using python
 - Install the required libraries using pip  
